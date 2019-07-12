@@ -7,3 +7,7 @@ Demonstrates how to write some code, tests, and build binaries with Make.
 ## Test
 
 Run the tests with `go test`.
+
+## Build
+
+Build a binary executable with `go build`.
